@@ -1,0 +1,8 @@
+stages:
+  - test
+
+test-job:
+  stage: test
+  script:
+    - echo "Hello, CI/CD from DevOps student!"
+    - echo "Pipeline is working!"
