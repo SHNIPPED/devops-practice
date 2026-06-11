@@ -1,5 +1,5 @@
 # DevOps портфолио: Электронный справочник
-
+[![CI](https://github.com/SHNIPPED/devops-practice/actions/workflows/ci.yml/badge.svg?branch=master&event=branch_protection_rule)](https://github.com/SHNIPPED/devops-practice/actions/workflows/ci.yml)
 ## Проект
 
 Веб-приложение (React + Node.js + MySQL), контейнеризированное и развёрнутое в Kubernetes.
